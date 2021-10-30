@@ -1,0 +1,30 @@
+.no-uppercase {
+    text-transform: none;
+}
+
+.no-bold {
+    font-weight: unset;
+}
+
+.resume-section-content h3 {
+    font-size: 1.7rem;
+    font-weight: unset;
+    text-transform: none;
+}
+
+.resume-section-content .subheading {
+    font-size: 1.3rem;
+    text-transform: none;
+}
+
+.bg-primary {
+    background-color: #009688 !important;
+}
+
+.text-primary {
+    color: #009688 !important;
+}
+
+a {
+    color: #009688;
+}
